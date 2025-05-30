@@ -12,7 +12,9 @@ It will auto-triggered during comits.
 
 You can check your files any time:
 
+pre-commit run --files <filename>
 pre-commit run --all-files
+
 
 #### Python auto import - generating requirements.txt content and pip auto installs it ######
 
