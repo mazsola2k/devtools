@@ -13,6 +13,7 @@ It will auto-triggered during comits.
 You can check your files any time:
 
 pre-commit run --files <filename>
+
 pre-commit run --all-files
 
 
