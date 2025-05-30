@@ -1,0 +1,5 @@
+# Allow the latest version
+# Exclude specific versions
+# Specify a version range
+# Specify exact versions
+# Specify minimum version
